@@ -1,8 +1,6 @@
 # robosys2023
 # plusコマンド
 ![test](https://github.com/ShotaroYasunishi/robosys202x/actions/workflows/test.yml/badge.svg)](https://github.com/ShotaroYasunishi/robosys202x/actions/workflows/test.yml)
-↑テスト結果を反映したバッジの画像が埋め込まれる。
-
 標準入力から読み込んだ数字を足す。
 ## plus_a.py
 二つの引数を足す。
